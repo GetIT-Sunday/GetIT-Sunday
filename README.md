@@ -7,7 +7,6 @@ Hi, I am GetIT Sunday! 👋
 🚀 LLM · RL · VLA Explorer  
 📘 每周搞懂一个技术点 | 项目分享
 
----
 
 ### ⚡ About
 
@@ -15,14 +14,12 @@ Hi, I am GetIT Sunday! 👋
 - 🧩 From **theory → practice → system**
 - ✍️ Build in public & keep learning  
 
----
 
 ### 🌱 Slogan
 
 > 不讲概念，只讲落地  
 > Learn deeply. Build seriously.
 
----
 
 ### 🤝 Connect with Me
 
