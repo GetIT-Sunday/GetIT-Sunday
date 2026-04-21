@@ -1,4 +1,5 @@
 ## Hi there 👋
+# [![GetIT Sunday header](https://github.com/GetIT-Sunday/GetIT-Sunday/edit/main/GetITBackground.png)]
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=LLM+Engineer;RL+Learner;Build+in+Public;GetIT+Sunday&center=true&size=25">
 </p>
