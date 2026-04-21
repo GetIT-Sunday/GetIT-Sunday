@@ -2,28 +2,48 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/GetIT-Sunday/GetIT-Sunday/main/GetITBackground.png" />
 </p>
-Hi, I am GetIT Sunday! 👋  
+## 👋 Hi, I'm GetIT Sunday
 
-🚀 LLM · RL · VLA Explorer  
-📘 每周搞懂一个技术点 | 项目分享
+<p align="center">
 
+🚀 **LLM · RL · VLA Explorer**  
+📘 **每周一篇 · 搞懂一个技术点**  
+🧠 **分享AI时代的求学之路**
 
-### ⚡ About
+</p>
 
-- 🔭 Focus on **LLM / Reinforcement Learning / VLA**
-- 🧩 From **theory → practice → system**
-- ✍️ Build in public & keep learning  
+---
 
+## ⚡ About Me
 
-### 🌱 Slogan
+<p align="center">
 
-> 不讲概念，只讲落地  
-> Learn deeply. Build seriously.
+🔭 Focus on **LLM / Reinforcement Learning / VLA**  
+🧩 From **Theory → Practice → System**  
+✍️ **Build in Public · Keep Learning**
 
+</p>
 
-### 🤝 Connect with Me
+---
 
-- 📮 Email: getit_sunday@163.com
+## 🌱 Slogan
+
+<p align="center">
+
+> **不讲概念，只讲落地**  
+> *Learn deeply. Build seriously.*
+
+</p>
+
+---
+
+## 🤝 Connect
+
+<p align="center">
+
+📮 **getit_sunday@163.com**
+
+</p>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GetIT-Sunday/GetIT-Sunday/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GetIT-Sunday/GetIT-Sunday/output/github-contribution-grid-snake.svg">
