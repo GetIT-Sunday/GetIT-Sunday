@@ -12,8 +12,6 @@
 
 </p>
 
----
-
 ## ⚡ About Me
 
 <p align="center">
@@ -24,7 +22,6 @@
 
 </p>
 
----
 
 ## 🌱 Slogan
 
@@ -35,7 +32,6 @@
 
 </p>
 
----
 
 ## 🤝 Connect
 
