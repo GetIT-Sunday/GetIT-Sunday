@@ -6,7 +6,7 @@
 
 <p align="center">
 
-🚀 **LLM · RL · VLA Explorer**  
+🚀 **LLM · Agent · RL Explorer**  
 📘 **每周一篇 · 搞懂一个技术点**  
 🧠 **分享AI时代的求学之路**
 
@@ -16,7 +16,7 @@
 
 <p align="center">
 
-🔭 Focus on **VibeCoding / LLM / Reinforcement Learning / VLA**  
+🔭 Focus on **VibeCoding / LLM / Reinforcement Learning / Agent**  
 🧩 From **Theory → Practice → System**  
 ✍️ **Build in Public · Keep Learning**
 
