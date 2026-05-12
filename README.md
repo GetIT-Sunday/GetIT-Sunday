@@ -16,7 +16,7 @@
 
 <p align="center">
 
-🔭 Focus on **LLM / Reinforcement Learning / VLA**  
+🔭 Focus on **VibeCoding / LLM / Reinforcement Learning / VLA**  
 🧩 From **Theory → Practice → System**  
 ✍️ **Build in Public · Keep Learning**
 
