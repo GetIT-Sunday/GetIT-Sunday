@@ -25,6 +25,11 @@
 📮 **getit_sunday@163.com**
 
 </p>
+
+## 🧪 Selected Project
+
+- [Manhua Script Generation](projects/manhua-script-generation/README.md) — a structured workflow for adapting web novels into production-ready manhua scripts, covering story extraction, episode planning, script generation, and quality evaluation.
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GetIT-Sunday/GetIT-Sunday/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GetIT-Sunday/GetIT-Sunday/output/github-contribution-grid-snake.svg">
