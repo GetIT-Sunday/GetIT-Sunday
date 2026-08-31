@@ -5,7 +5,7 @@
     <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="28px" height="28px"/>
     <strong>Hi, I'm GetIT Sunday.</strong>
 <p align="center">
-🚀 **LLM · Agent · RL Explorer**  
+🚀 <strong>LLM · Agent · RL Explorer</strong>
 </p>
 
 ## ⚡ About Me
