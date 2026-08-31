@@ -2,14 +2,10 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/GetIT-Sunday/GetIT-Sunday/main/GetITBackground.png" />
 </p>
-## 👋 Hi, I'm GetIT Sunday
-
+    <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="28px" height="28px"/>
+    <strong>Hi, I'm GetIT Sunday.</strong>
 <p align="center">
-
 🚀 **LLM · Agent · RL Explorer**  
-📘 **每周一篇 · 搞懂一个技术点**  
-🧠 **分享AI时代的求学之路**
-
 </p>
 
 ## ⚡ About Me
@@ -21,17 +17,6 @@
 ✍️ **Build in Public · Keep Learning**
 
 </p>
-
-
-## 🌱 Slogan
-
-<p align="center">
-
-> **不讲概念，只讲落地**  
-> *Learn deeply. Build seriously.*
-
-</p>
-
 
 ## 🤝 Connect
 
